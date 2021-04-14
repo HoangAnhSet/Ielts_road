@@ -1,5 +1,5 @@
 # ielts
-- [] Vocabulary for Ielts start 13/4 end 13/5
+- [x] Vocabulary for Ielts start 13/4 end 13/5
 - [] For week for a firm on https://www.showboxmovies.net/
 - [] 600 Essential Words for Ielts
 ### 3 Tháng trước khi thi

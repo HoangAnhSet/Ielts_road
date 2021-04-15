@@ -1,5 +1,12 @@
 #### Hành trình ôn thi Ielts mục tiêu là 6.5 bắt đầu từ ngày 13/4 năm 2021
+* **Reading: 7**
+* **Speaking: 6~6.5**
+* **Listenning: 7**
+* **Writing: 6**
+* **Tuần 1**
 - [x] Vocabulary for Ielts start 13/4 end 13/5
+* *Vocabulary for Ielts**
+  * Ngày 15/4 Xong natural world.
 - [] For week for a firm on https://www.showboxmovies.net/
 - [] 600 Essential Words for Ielts start 13/5 end 13/6
 - [] Reading for Ielts Collin start 13/6 end 13/7
@@ -22,7 +29,10 @@
 
 * **Sổ Ideas cho Speaking**: chuẩn bị trước cho mình kiến thức nền tảng về những chủ đề này sẽ giúp các bạn tiết kiệm thời gian Brainstorm ideas đồng thời luyện được kỹ năng sắp xếp ý logic.
 
-* **Sổ Reading & Listening Strategies**: note lại các bước làm, những điều cần lưu ý cũng như tips/tricks với từng dạng câu hỏi. Bạn có thể mở sổ khi làm bài để vừa áp dụng vừa nhớ luôn những cái mình đã note.
-
+* **Sổ Reading & Listening Strategies**: note lại các bước làm, những điều cần lưu ý cũng như tips/tricks với     từng dạng câu hỏi. Bạn có thể mở sổ khi làm bài để vừa áp dụng vừa nhớ luôn những cái mình đã note.
 _Phải đọc thật kĩ câu hỏi, không được chủ quan vì có rất nhiều trường hợp, ví dụ đề bài yêu câu trả lời Y/N/NGnhưng người thi vẫn T/F/NG. Hay dề bài yêu cầu điền không quá 2 từ vào chỗ trống, nhưng do không đọc kĩ và đã quen với các bài điền không quá 3 từ, bạn dễ rơi vào bẫy và bị mất điểm. Khi luyện, bạn nhớ chú ý đọc thật kĩ đề tạo thói quen đến khi đi thi sẽ không bị mất điểm đáng tiếc._
-#
+* **Hướng dẫn ghi chú writing của Nguyên Huyền**
+Link:n https://www.youtube.com/channel/UCZZJjVYHNsvOQ92Vumm_Itw
+    * Lên kế hoạch học Ielts
+        *Thành lập danh sách để có thể quan sát được những gì làm được qua từng ngày. Cần vẽ ra những mục tiêu và những trục thời gian để có thể qua
+    * Khi đọc những bài viết mẫu (các bài viết band 7+ hay 8+) và thấy có cấu trúc câu hay, cụm từ hay bạn cũng nhớ note lại nhé.
